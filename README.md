@@ -32,7 +32,7 @@ Ruby 环境
 
 #### Mac OS X, 任意 Linux 发行版本(Ubuntu,CentOS, Redhat, ArchLinux ...)
 
-** 使用 rvm 或 rbenv 安装 Ruby **
+**使用 rvm 或 rbenv 安装 Ruby**
 
 https://rvm.io/
 
@@ -41,7 +41,7 @@ https://github.com/sstephenson/rbenv
 
 #### Windows (不推荐)
 
-** 使用 RubyInstaller 安装 Ruby **
+**使用 RubyInstaller 安装 Ruby**
 
 http://rubyinstaller.org/
 
