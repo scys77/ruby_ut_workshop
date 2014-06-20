@@ -23,3 +23,28 @@ workshop过程
 
 - 自带笔记本
 - clone 本项目，执行 rspec 能通过
+
+
+Ruby 环境
+=========
+
+### 1. 安装 Ruby
+
+#### Mac OS X, 任意 Linux 发行版本(Ubuntu,CentOS, Redhat, ArchLinux ...)
+
+** 使用 rvm 或 rbenv 安装 Ruby **
+
+https://rvm.io/
+
+https://github.com/sstephenson/rbenv
+
+
+#### Windows (不推荐)
+
+** 使用 RubyInstaller 安装 Ruby **
+
+http://rubyinstaller.org/
+
+### 2. 安装 rspec
+
+https://github.com/rspec/rspec
