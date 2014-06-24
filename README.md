@@ -48,3 +48,13 @@ http://rubyinstaller.org/
 ### 2. 安装 rspec
 
 https://github.com/rspec/rspec
+
+
+Rspec 学习资料
+==============
+
+- http://rubydoc.info/gems/rspec-core/frames
+- http://rubydoc.info/gems/rspec-expectations/frames
+- http://rubydoc.info/gems/rspec-mocks/frames
+- http://rubydoc.info/gems/rspec-rails/frames
+- http://betterspecs.org/
