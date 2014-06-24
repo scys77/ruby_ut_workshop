@@ -1,0 +1,22 @@
+#!/usr/bin/env ruby
+
+$:.unshift(File.dirname(__FILE__) + '/../lib') unless $:.include?(File.dirname(__FILE__) + '/../lib')
+require 'ruby_ut_workshop'
+
+
+puts "Welcome!\n"
+guesser = RubyUtWorkshop::Guesser.new
+
+6.times do |i|
+  puts "\nPlease input your number(#{6 - i}):"
+
+  result = guesser.guess!(gets)
+  if result == '4A0B'
+    puts "\nCongratulations!"
+    break
+  else
+    puts result
+  end
+
+  puts "\nGame Over" if i == 5
+end
